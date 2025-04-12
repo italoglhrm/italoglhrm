@@ -6,7 +6,6 @@ Passionate about software development and creative problem-solving<br>
 Currently diving deep into modern web technologies and building projects
 </p>
 
-<hr>
 
 <h2 align="center">[ Let's Connect ] <code>._.)/\(._.</code></h2>
 
@@ -15,6 +14,5 @@ Currently diving deep into modern web technologies and building projects
 ▸ Email: italoglhrm.dev@gmail.com
 </p>
 
-<hr>
 
 <p align="center"><i>(ideas → code) && (challenges → growth)</i></p>
