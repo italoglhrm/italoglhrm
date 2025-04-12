@@ -1,16 +1,20 @@
-# › 👋😊 Hello, I'm Ítalo
+<h1 align="center">› 👋😊 Hello, I'm Ítalo</h1>
 
-— Software Engineering student @ ULBRA  
-— Passionate about software development and creative problem-solving  
-— Currently diving deep into modern web technologies and building projects
+<p align="center">
+Software Engineering student @ ULBRA<br>
+Passionate about software development and creative problem-solving<br>
+Currently diving deep into modern web technologies and building projects
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr>
 
-## [ Let's Connect ] `._.)/\(._.`
+<h2 align="center">[ Let's Connect ] <code>._.)/\(._.</code></h2>
 
-▸ LinkedIn: [Ítalo Guilherme](https://www.linkedin.com/in/%C3%ADtalo-guilherme/)  
-▸ Email: italoglhrm.dev@gmail.com 
+<p align="center">
+▸ <a href="https://www.linkedin.com/in/italo-guilherme">LinkedIn: Ítalo Guilherme</a><br>
+▸ Email: italoglhrm.dev@gmail.com
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr>
 
-(ideas -> code) && (challenges -> growth)
+<p align="center"><i>(ideas → code) && (challenges → growth)</i></p>
