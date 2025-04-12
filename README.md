@@ -13,4 +13,4 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## (ideas -> code) && (challenges -> growth)
+(ideas -> code) && (challenges -> growth)
