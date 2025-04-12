@@ -6,7 +6,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## [ Let's Connect ] '._.)/\(._.'
+## [ Let's Connect ] `._.)/\(._.`
 
 ▸ LinkedIn: [Ítalo Guilherme](https://www.linkedin.com/in/%C3%ADtalo-guilherme/)  
 ▸ Email: italoglhrm.dev@gmail.com 
