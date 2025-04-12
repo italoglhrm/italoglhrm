@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/italoglhrm/italoglhrm/main/profile-pic.png" align="right" width="200"/>
-
 # › 👋😊 Hello, I'm Ítalo
 
 — Software Engineering student @ ULBRA
@@ -11,9 +9,8 @@
 ## [ Let's Connect ] ._.)/\(._.
 
 ▸ LinkedIn: [Ítalo Guilherme](https://www.linkedin.com/in/ítalo-guilherme)  
-▸ Email: italoglhrm.dev@gmail.com <!-- replace with your real email if desired -->
+▸ Email: italoglhrm.dev@gmail.com 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Ideas -> code && 
-challenges -> growth 
+ideas -> code && challenges -> growth 
