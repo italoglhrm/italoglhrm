@@ -2,7 +2,7 @@
 
 — Software Engineering student @ ULBRA  
 — Software development and creative problem-solving  
-— Currently diving deep into modern web technologies and building projects
+— Currently diving into modern web technologies and building projects
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
