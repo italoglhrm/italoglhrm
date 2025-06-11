@@ -1,6 +1,5 @@
 # › 👋😊 Hello, I'm Ítalo
 
-— Software Engineering student @ ULBRA  
 — Passionate about software development and problem-solving  
 — Currently diving into modern web technologies and building projects
 
