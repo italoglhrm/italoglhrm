@@ -1,7 +1,7 @@
 # › 👋😊 Hello, I'm Ítalo
 
 — Passionate about software development and problem-solving  
-— Currently diving into modern web technologies and building projects
+— Currently diving into modern web technologies, AI and building projects
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
