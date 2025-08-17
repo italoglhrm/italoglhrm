@@ -14,15 +14,6 @@
 
 ---
 
-## Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=italoglhrm&show_icons=true&theme=radical" alt="Ítalo GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoglhrm&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ## Let's Connect!
 
 <p align="center">
