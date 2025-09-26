@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,typescript,nextjs,python,java,php,laravel,nestjs,nodejs,postgresql,mysql,git,gitlab,bash,linux,docker,fastapi,mongodb,mysql,n8n,django,redis" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,typescript,nextjs,python,java,php,laravel,nestjs,nodejs,postgresql,mysql,git,gitlab,bash,linux,docker,fastapi,mongodb,mysql,django,redis" alt="Tech Stack"/>
   </a>
 </p>
 
