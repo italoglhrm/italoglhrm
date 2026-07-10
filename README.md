@@ -1,5 +1,5 @@
 <p align="center">
-  <i>Software Developer | Currently diving into modern web technologies, automations, AI and building projects</i>
+  <i>Software Developer | Currently diving into modern web technologies, automations, AI, UX and building projects</i>
 </p>
 
 ---
