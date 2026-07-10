@@ -4,24 +4,6 @@
 
 ---
 
-## Programming Languages, Frameworks & Development Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,typescript,nextjs,python,java,php,laravel,nestjs,nodejs,postgresql,mysql,git,gitlab,bash,linux,docker,fastapi,mongodb,mysql,django,redis" alt="Tech Stack"/>
-  </a>
-</p>
-
----
-
-## Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/italoglhrm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
 <p align="center">
   <i>(ideas -> code) && (challenges -> growth)</i>
 </p>
