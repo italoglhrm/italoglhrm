@@ -53,6 +53,28 @@
 <table>
 <tr>
 <td width="260" valign="top">
+<img src="https://raw.githubusercontent.com/italoglhrm/gemini-paydoc-extractor/main/docs/screenshots/overview.png" width="260" alt="PayDoc Extractor overview" />
+</td>
+<td valign="top">
+
+#### [PayDoc Extractor](https://github.com/italoglhrm/gemini-paydoc-extractor)
+
+Payment-document extractor, upload an invoice, boleto, receipt or waybill and get structured JSON with a confidence score per field, Gemini multimodal extraction with schema-constrained output, confidence computed by the API, bilingual EN/PT interface.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="260" valign="top">
 <img src="https://raw.githubusercontent.com/italoglhrm/myagenda-app/main/docs/screenshots/overview.png" width="260" alt="MyAgenda overview" />
 </td>
 <td valign="top">
