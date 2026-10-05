@@ -53,7 +53,7 @@
 <table>
 <tr>
 <td width="260" valign="top">
-<img src="https://raw.githubusercontent.com/italoglhrm/gemini-paydoc-extractor/main/docs/screenshots/overview.png" width="260" alt="PayDoc Extractor overview" />
+<img src="https://raw.githubusercontent.com/italoglhrm/gemini-paydoc-extractor/development/docs/screenshots/overview.png" width="260" alt="PayDoc Extractor overview" />
 </td>
 <td valign="top">
 
