@@ -19,12 +19,6 @@
 
 ---
 
-## About
-
-Full-stack developer building enterprise-scale systems, React and TypeScript front ends on Django, Oracle and Redis, with a growing focus on AI-driven automation: LLM integrations, document pipelines, and n8n workflows.
-
----
-
 ## Stack
 
 **Languages & core frameworks**
